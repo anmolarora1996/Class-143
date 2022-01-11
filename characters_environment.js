@@ -21,7 +21,7 @@ var gameConfig={
   status: "start", 
   
   // initial lives of mario
-  initialLifes: 4,
+  initialLifes: 6,
 
   // character moves speed
   moveSpeed: 5,
